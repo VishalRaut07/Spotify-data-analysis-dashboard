@@ -23,7 +23,7 @@ It focuses on:
 🎯 Image-based slicer using album covers  
 📈 Monthly & yearly trend analysis  
 📉 Artist-wise performance tracking  
-⚡ Interactive filtering across multiple pages  
+⚡ Interactive filtering across multiple pages
 
 ---
 
